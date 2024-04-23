@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\baku\baku\bin\Debug\net6.0\baku.exe
+C:\Users\student\source\repos\baku\baku\bin\Debug\net6.0\baku.deps.json
+C:\Users\student\source\repos\baku\baku\bin\Debug\net6.0\baku.runtimeconfig.json
+C:\Users\student\source\repos\baku\baku\bin\Debug\net6.0\baku.dll
+C:\Users\student\source\repos\baku\baku\bin\Debug\net6.0\baku.pdb
+C:\Users\student\source\repos\baku\baku\obj\Debug\net6.0\baku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\baku\baku\obj\Debug\net6.0\baku.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\baku\baku\obj\Debug\net6.0\baku.AssemblyInfo.cs
+C:\Users\student\source\repos\baku\baku\obj\Debug\net6.0\baku.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\baku\baku\obj\Debug\net6.0\baku.dll
+C:\Users\student\source\repos\baku\baku\obj\Debug\net6.0\refint\baku.dll
+C:\Users\student\source\repos\baku\baku\obj\Debug\net6.0\baku.pdb
+C:\Users\student\source\repos\baku\baku\obj\Debug\net6.0\baku.genruntimeconfig.cache
+C:\Users\student\source\repos\baku\baku\obj\Debug\net6.0\ref\baku.dll
